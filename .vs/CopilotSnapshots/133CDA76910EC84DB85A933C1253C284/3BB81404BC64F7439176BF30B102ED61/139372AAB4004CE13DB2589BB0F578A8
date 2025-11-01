@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Class_5.ExtentionMethods
+{
+    internal static class ExtentionMethods
+    {
+        public static bool IsOdd(this int num)
+        {
+            return num % 2 == 0;
+        }
+        public static bool IsEven(this int num)
+        {
+            return num % 2 == 1;
+        }
+        public static bool IsContainsDigit()(this string str)
+        {
+            
+        }
+        public static string ToCapitalize()(this string word)
+        {
+            
+        }
+
+
+    }
+}
