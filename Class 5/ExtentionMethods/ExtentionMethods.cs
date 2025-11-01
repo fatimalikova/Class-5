@@ -4,6 +4,7 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace Class_5.ExtentionMethods
 {
@@ -49,5 +50,34 @@ namespace Class_5.ExtentionMethods
             else Array.Resize(ref array, k);
             return array;
         }
+
+        public static string GetFirstSentence(this string sentence)
+        {
+            if (string.IsNullOrEmpty(sentence))
+                return string.Empty;
+
+            string[] parts = sentence.Split('.');
+
+            if (parts.Length > 0)
+                return parts[0].Trim();
+
+            return string.Empty;
+        }
+
+        
+
+        public static string GetSecondWord(this string text)
+        {
+            if (string.IsNullOrWhiteSpace(text))
+                return string.Empty;
+
+            string[] words = text.Split(' ');
+
+            if (words.Length < 2)
+                return string.Empty;
+
+            return words[1].Trim();
+        }
+
     }
 }

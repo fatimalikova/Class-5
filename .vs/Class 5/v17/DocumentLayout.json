@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fatimakhm\\Desktop\\Class5\\Class 5\\",
+  "WorkspaceRootPath": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Class-5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3274B32F-22F9-4918-BD34-9400C35F15B3}|Class 5\\Class 5.csproj|c:\\users\\fatimakhm\\desktop\\class5\\class 5\\class 5\\extentionmethods\\extentionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3274B32F-22F9-4918-BD34-9400C35F15B3}|Class 5\\Class 5.csproj|solutionrelative:class 5\\extentionmethods\\extentionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3274B32F-22F9-4918-BD34-9400C35F15B3}|Class 5\\Class 5.csproj|c:\\users\\fmeli\\onedrive\\desktop\\class-5\\class 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3274B32F-22F9-4918-BD34-9400C35F15B3}|Class 5\\Class 5.csproj|solutionrelative:class 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3274B32F-22F9-4918-BD34-9400C35F15B3}|Class 5\\Class 5.csproj|c:\\users\\fatimakhm\\desktop\\class5\\class 5\\class 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3274B32F-22F9-4918-BD34-9400C35F15B3}|Class 5\\Class 5.csproj|solutionrelative:class 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3274B32F-22F9-4918-BD34-9400C35F15B3}|Class 5\\Class 5.csproj|c:\\users\\fmeli\\onedrive\\desktop\\class-5\\class 5\\task 3\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3274B32F-22F9-4918-BD34-9400C35F15B3}|Class 5\\Class 5.csproj|solutionrelative:class 5\\task 3\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3274B32F-22F9-4918-BD34-9400C35F15B3}|Class 5\\Class 5.csproj|c:\\users\\fmeli\\onedrive\\desktop\\class-5\\class 5\\extentionmethods\\matchcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3274B32F-22F9-4918-BD34-9400C35F15B3}|Class 5\\Class 5.csproj|solutionrelative:class 5\\extentionmethods\\matchcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3274B32F-22F9-4918-BD34-9400C35F15B3}|Class 5\\Class 5.csproj|c:\\users\\fmeli\\onedrive\\desktop\\class-5\\class 5\\extentionmethods\\extentionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3274B32F-22F9-4918-BD34-9400C35F15B3}|Class 5\\Class 5.csproj|solutionrelative:class 5\\extentionmethods\\extentionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,37 +26,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ExtentionMethods.cs",
-              "DocumentMoniker": "C:\\Users\\fatimakhm\\Desktop\\Class5\\Class 5\\Class 5\\ExtentionMethods\\ExtentionMethods.cs",
-              "RelativeDocumentMoniker": "Class 5\\ExtentionMethods\\ExtentionMethods.cs",
-              "ToolTip": "C:\\Users\\fatimakhm\\Desktop\\Class5\\Class 5\\Class 5\\ExtentionMethods\\ExtentionMethods.cs",
-              "RelativeToolTip": "Class 5\\ExtentionMethods\\ExtentionMethods.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwDAAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "StudentClass.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Class-5\\Class 5\\Task 3\\StudentClass.cs",
+              "RelativeDocumentMoniker": "Class 5\\Task 3\\StudentClass.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Class-5\\Class 5\\Task 3\\StudentClass.cs",
+              "RelativeToolTip": "Class 5\\Task 3\\StudentClass.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T10:12:48.899Z",
+              "WhenOpened": "2025-11-01T19:20:51.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "MatchCount.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Class-5\\Class 5\\ExtentionMethods\\MatchCount.cs",
+              "RelativeDocumentMoniker": "Class 5\\ExtentionMethods\\MatchCount.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Class-5\\Class 5\\ExtentionMethods\\MatchCount.cs",
+              "RelativeToolTip": "Class 5\\ExtentionMethods\\MatchCount.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:54:35.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fatimakhm\\Desktop\\Class5\\Class 5\\Class 5\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Class-5\\Class 5\\Program.cs",
               "RelativeDocumentMoniker": "Class 5\\Program.cs",
-              "ToolTip": "C:\\Users\\fatimakhm\\Desktop\\Class5\\Class 5\\Class 5\\Program.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Class-5\\Class 5\\Program.cs",
               "RelativeToolTip": "Class 5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-01T10:09:06.642Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExtentionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Class-5\\Class 5\\ExtentionMethods\\ExtentionMethods.cs",
+              "RelativeDocumentMoniker": "Class 5\\ExtentionMethods\\ExtentionMethods.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\Class-5\\Class 5\\ExtentionMethods\\ExtentionMethods.cs",
+              "RelativeToolTip": "Class 5\\ExtentionMethods\\ExtentionMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T10:12:48.899Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
